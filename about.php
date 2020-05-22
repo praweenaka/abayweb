@@ -31,31 +31,19 @@
     <!--<h3 class="title">Welcome To Corporate<span></span></h3> -->
 
     <div class="wel-grids">
-      <div class="col-md-6 wel-grid-one bor_four text-center wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
+      <div class="col-md-6 wel-grid-one bor_three text-center wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
         <div class="wel-img">
           <i class="fa fa-briefcase icon" aria-hidden="true"></i>
         </div>
         <h4>WHO WE ARE  </h4>
-        <p>We are Abeywickram Motor Traders Pvt ltd. Leading automotive supplier for Diesel engine parts, Marine engine parts, Generator Engine parts and Forklift parts in Sri Lanka. We have well managed, trained and experienced sales team to cray out our wholesale and retail business, also well experienced team in head office. We strive to become most innovative service provider creating satisfied customers on a long term basis with high quality products and service. 
-
-          Our Values 
-          • At AMT we attach importance to Customers. 
-          o By respecting their fundamental rights. 
-          o By giving them better service with high quality product for a reasonable price. 
-
-          • At AMT we attach importance to employees:
+        <p>We are Abeywickram Motor Traders Pvt ltd. Leading automotive supplier for Diesel engine parts, Marine engine parts, Generator Engine parts and Forklift parts in Sri Lanka. We have well managed, trained and experienced sales team to cray out our wholesale and retail business, also well experienced team in head office. We strive to become most innovative service provider creating satisfied customers on a long term basis with high quality products and service. <br>
+          Our Values  
+          o By giving them better service with high quality product for a reasonable price.   
           o By respecting their fundamental rights. 
           o By providing them with fair employment conditions.
         .</p>
       </div>
-      <div class="col-md-6 wel-grid-one bor_one text-center wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0s">
-        <div class="wel-img">
-          <i class="fa fa-database" aria-hidden="true"></i>
-        </div>
-        <h4>Our Vision</h4>
-        <p>To become the leading supplier in Heavy machinery industry in Sri Lanka .</p>
-      </div>
-      <div class="col-md-6 wel-grid-one bor_two text-center wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.1s">
+      <div class="col-md-6 wel-grid-one bor_three text-center wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
         <div class="wel-img">
           <i class="fa fa-group icon" aria-hidden="true"></i>
         </div>
@@ -71,7 +59,9 @@
           o Advanced local and forging logistic management system is put in place to provide on time delivery.
         </p>
       </div>
-      <div class="col-md-6 wel-grid-one bor_three text-center wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.2s">
+      
+
+      <div class="col-md-6 wel-grid-one bor_three text-center wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
         <div class="wel-img">
           <i class="fa fa-external-link" aria-hidden="true"></i>
         </div>
@@ -82,7 +72,13 @@
           2017 – Abeywickram Motor Stores.
         </p>
       </div>
-
+      <div class="col-md-6 wel-grid-one bor_three text-center wow bounceInUp" data-wow-duration="1.5s" data-wow-delay="0.3s">
+        <div class="wel-img">
+          <i class="fa fa-database" aria-hidden="true"></i>
+        </div>
+        <h4>Our Vision</h4>
+        <p>To become the leading supplier in Heavy machinery industry in Sri Lanka .</p>
+      </div>
       <div class="clearfix"></div>
 
     </div>

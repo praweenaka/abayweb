@@ -25,7 +25,7 @@
 			<div class="col-md-5 contact-left"> 
 				<ul>
 					<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
-						Panchikawaththa
+						Panchikawaththa.
 					</li>					
 					<li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
 						0112445275
