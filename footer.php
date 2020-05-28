@@ -29,7 +29,7 @@
 										<i class="fa fa-envelope" aria-hidden="true"></i>
 									</div>
 									<div class="ftr-text">
-										<p><a href="mailto:adabey@ymail.com">adabey@ymail.com</a></p>
+										<p><a href="mailto:abeymotortraders@gmail.com">abeymotortraders@gmail.com</a></p>
 									</div>
 									<div class="clearfix"> </div>
 								</div>

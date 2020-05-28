@@ -22,6 +22,18 @@
 						</div>
 					</div>
 				</li>
+				<li>
+					<div class="w3layouts-banner-top3">
+						<div class="container">  
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="w3layouts-banner-top4">
+						<div class="container">  
+						</div>
+					</div>
+				</li>
 
 			</ul>
 		</div>

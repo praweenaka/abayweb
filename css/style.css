@@ -804,6 +804,24 @@ button.close {
 	-moz-background-size: cover;
 	min-height:700px;
 }
+.w3layouts-banner-top3{
+    background: url(../img/24.jpg) no-repeat 0px 0px;
+    background-size: cover; 
+    -webkit-background-size: cover; 
+    -moz-background-size: cover;
+    -o-background-size: cover;      
+    -moz-background-size: cover;
+    min-height:700px;
+}
+.w3layouts-banner-top4{
+    background: url(../img/25.jpg) no-repeat 0px 0px;
+    background-size: cover; 
+    -webkit-background-size: cover; 
+    -moz-background-size: cover;
+    -o-background-size: cover;      
+    -moz-background-size: cover;
+    min-height:700px;
+}
 .w3layouts-banner-top2{
 	background: url(../img/1.jpg) no-repeat 0px 0px;
     background-size: cover;	

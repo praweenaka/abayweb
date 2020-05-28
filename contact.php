@@ -31,7 +31,7 @@
 						0112445275
 					</li>
 					<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-						<a href="mailto:adabey@ymail.com">adabey@ymail.com</a>
+						<a href="mailto:abeymotortraders@gmail.com">abeymotortraders@gmail.com</a>
 					</li>
 				</ul>
 			</div>						
