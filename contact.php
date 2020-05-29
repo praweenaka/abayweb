@@ -1,10 +1,7 @@
 <?php include "header.php"?>
 
-<!-- Slider -->
-<div class="banner">
-</div>
-<!-- contact -->
-<div class="contact">
+ 
+<!-- contact --> 
 	<div class="container"> 
 		<div class="w3-agileits-heading">
 			<h3 class="title">Contact Us</h3> 
@@ -28,7 +25,7 @@
 						Panchikawaththa.
 					</li>					
 					<li><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-						0112445275
+						011-2445275 ,011-2394737     
 					</li>
 					<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
 						<a href="mailto:abeymotortraders@gmail.com">abeymotortraders@gmail.com</a>
@@ -37,8 +34,7 @@
 			</div>						
 			<div class="clearfix"> </div>  
 		</div>			
-	</div>			
-</div>
+	</div>	 
 <!-- //contact -->  
 
 

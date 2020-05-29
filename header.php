@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Abeywickrama Motor Traders</title>
+	<title>Abeywickrama Motor Traders PVT(LTD)</title>
 	<!-- Meta tag Keywords -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -56,7 +56,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 			<!-- navigation section -->
 			<div class="w3_navigation">
 				<div class="w3-agileits-heading">
-					<h3 class="title">Abeywickrama Motor Traders</h3> 
+					<h3 class="title" style="color:#7b0512">Abeywickrama Motor Traders PVT(LTD)</h3> 
 				</div>
 			</div>
 			<!-- /navigation section -->

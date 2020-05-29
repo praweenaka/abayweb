@@ -730,7 +730,7 @@ button.close {
   float: left;
 }
 .rslides img {
-  height: auto;
+  height: 1349px;
   border: 0;
   }
 .callbacks_tabs {
@@ -813,7 +813,7 @@ button.close {
     -moz-background-size: cover;
     min-height:700px;
 }
-.w3layouts-banner-top4{
+.w3layouts-banner-top5{
     background: url(../img/25.jpg) no-repeat 0px 0px;
     background-size: cover; 
     -webkit-background-size: cover; 

@@ -11,7 +11,7 @@
 										<i class="fa fa-map-marker" aria-hidden="true"></i>
 									</div>
 									<div class="ftr-text">
-										<p>Panchikawaththa.</p>
+										<p>Address: 202/ 15 Mohideen Masjid Road Colombo 10.</p>
 									</div>
 									<div class="clearfix"> </div>
 								</div>
@@ -20,7 +20,16 @@
 										<i class="fa fa-phone" aria-hidden="true"></i>
 									</div>
 									<div class="ftr-text">
-										<p>0112445275</p>
+										<p>Tel:011-2445275,011-2394737</p>   
+									</div>
+									<div class="clearfix"> </div>
+								</div>
+								<div class="ftr-address">
+									<div class="local">
+										<i class="fa fa-phone" aria-hidden="true"></i>
+									</div>
+									<div class="ftr-text"> 
+										<p>Fax:011-2388930</p>
 									</div>
 									<div class="clearfix"> </div>
 								</div>
@@ -29,7 +38,7 @@
 										<i class="fa fa-envelope" aria-hidden="true"></i>
 									</div>
 									<div class="ftr-text">
-										<p><a href="mailto:abeymotortraders@gmail.com">abeymotortraders@gmail.com</a></p>
+										<p><a href="mailto:abeymotortraders@gmail.com">Email: abeymotortraders@gmail.com</a></p>
 									</div>
 									<div class="clearfix"> </div>
 								</div>
